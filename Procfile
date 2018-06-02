@@ -1,2 +1,2 @@
-web: ./bin/www npm start
+worker: node bot.js
 
